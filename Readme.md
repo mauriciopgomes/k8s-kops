@@ -64,3 +64,11 @@ Export S3 Bucket
 Delete cluster command
 
     kops delete cluster k8s.mauriciogomes.com.br --yes
+    
+    
+##O que é gerenciamento de clusters do Kubernetes?
+##O gerenciamento de cluster Kubernetes é a forma como uma equipe de TI gerencia um grupo de clusters do Kubernetes. 
+
+##Com as aplicações nativas em nuvem modernas, os ambientes do Kubernetes estão se tornando altamente distribuídos. Eles podem ser implantados em vários datacenters ##on-premise, na nuvem pública e na borda.
+
+##As organizações que optarem por usar o Kubernetes em escala ou na produção terão vários clusters, por exemplo, para desenvolvimento, teste e produção, distribuídos ##dentre os ambientes. Assim, elas precisarão ser capazes de gerenciá-los de maneira efetiva.
